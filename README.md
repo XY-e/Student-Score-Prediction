@@ -24,15 +24,15 @@ This project aims to build a machine learning model that predicts students' exam
 - scikit-learn
 
 # Model Performance
-Full Linear Regression Model
-MSE: 4.17
-R²: 0.73
-Subset Linear Regression (Hours Studied, Sleep, Attendance)
-MSE: 7.03
-R²: 0.55
-Polynomial Regression (Degree 2)
-MSE: 7.02
-R²: 0.55
+- Full Linear Regression Model
+  - MSE: 4.17
+  - R²: 0.73
+- Subset Linear Regression (Hours Studied, Sleep, Attendance)
+  - MSE: 7.03
+  - R²: 0.55
+- Polynomial Regression (Degree 2)
+  - MSE: 7.02
+  - R²: 0.55
 
 # Visualizations
 - Actual vs Predicted (Full Linear Model)
